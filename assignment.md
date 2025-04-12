@@ -15,12 +15,17 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 3. What is the class name of the third element and the content of the css?
 ```
 Class name is elementThree
-The content of the css are padding, background-color, text-shadow, border, border-radius
+The content are 
+padding: 10px;
+background-color: aquamarine;
+text-shadow: 1px 1px white;
+border: gray solid 2px;
+border-radius: 10px;
 ```
 
 4. What is the css selector of the fourth element?
 ```
-nth-child
+Grouping selector
 ```
 
 5. What is the code you use to keep the blue box within the purple?
